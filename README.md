@@ -21,15 +21,5 @@ Elle présente mes compétences, mon expérience et mes coordonnées.
 - **CSS3** - Mise en page et animations (à venir)
 - **JavaScript** - Interactivité (à venir)
 
-## 📁 Structure du projet
-
-mon-profil-web/
-│
-├── index.html # Page principale
-├── README.md # Documentation
-├── .gitignore # Fichiers exclus
-└── assets/
-└── images/
-
 
 
