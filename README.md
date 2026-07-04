@@ -18,7 +18,7 @@ Elle présente mes compétences, mon expérience et mes coordonnées.
 ## 🛠️ Technologies utilisées
 
 - **HTML5** - Structure sémantique
-- **CSS3** - Mise en page et animations (à venir)
+- **CSS3** - box model et sélecteurs
 - **JavaScript** - Interactivité (à venir)
 
 
